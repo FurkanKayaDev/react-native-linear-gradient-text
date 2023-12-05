@@ -1,0 +1,39 @@
+{
+  "name": "@furkankaya/react-native-linear-text-gradient",
+  "version": "1.0.0",
+  "description": "A React Native component for rendering text with a beatiful linear gradient background",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FurkanKayaDev/Lyndray.git"
+  },
+  "keywords": [
+    "linear-text-gradient",
+    "react-native-text-gradient",
+    "react-native-gradient-text",
+    "gradient-text",
+    "react-native-text",
+    "text-gradient-color",
+    "text-gradient",
+    "react-native",
+    "text",
+    "gradient",
+    "linear-gradient",
+    "masked-view"
+  ],
+  "author": "FurkanKaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FurkanKayaDev/Lyndray/issues"
+  },
+  "homepage": "https://github.com/FurkanKayaDev/Lyndray#readme",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-native": "^0.64.0",
+    "@react-native-masked-view/masked-view": "^0.2.6",
+    "react-native-linear-gradient": "^2.6.0"
+  }
+}
