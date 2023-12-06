@@ -18,6 +18,7 @@ A React Native component for rendering text with a beautiful linear gradient bac
 
 ---
 ![light](https://github.com/FurkanKayaDev/react-native-linear-gradient-text/assets/103508575/2d4151c7-3b92-49cc-89b2-e3ea7a547515)
+
 ![dark](https://github.com/FurkanKayaDev/react-native-linear-gradient-text/assets/103508575/7d471612-e673-4737-ae07-b1567347c8f5)
 
 ## Installation
